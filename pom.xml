@@ -7,7 +7,7 @@
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
     <name>Vaadin Addressbook example</name>
-    
+ <!-- 
 <distributionManagement>
   <repository>
      <id>release</id>
@@ -18,6 +18,7 @@
      <url>http://54.193.82.117:8081/nexus/content/repositories/snapshots/ </url>
   </snapshotRepository>
 </distributionManagement>
+-->   
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <failOnMissingWebXml>false</failOnMissingWebXml>
